@@ -1,5 +1,5 @@
 # Hi 👋, I'm Philip Ukanwoke a.k.a Kaditcuy
 ## A Passionate Backend developer and a software Engineer 💻
 
-
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/ukMiDlCmdv2og" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/life-programmer-ukMiDlCmdv2og">via GIPHY</a></p>
+![giphy](https://user-images.githubusercontent.com/100276450/179907264-29699c2d-e2b8-4ce5-9049-e8b48d4c47b5.gif)
+![zoombg](https://user-images.githubusercontent.com/100276450/179907270-ace02caf-200e-4736-b29c-7c5a87059cd8.jpg)
