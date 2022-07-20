@@ -2,4 +2,4 @@
 ## A Passionate Backend developer and a software Engineer 💻
 
 ![giphy](https://user-images.githubusercontent.com/100276450/179907264-29699c2d-e2b8-4ce5-9049-e8b48d4c47b5.gif)
-![zoombg](https://user-images.githubusercontent.com/100276450/179907270-ace02caf-200e-4736-b29c-7c5a87059cd8.jpg)
+
