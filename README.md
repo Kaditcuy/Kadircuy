@@ -9,4 +9,4 @@
 
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
 
-<a href="https://giphy.com/gifs/life-programmer-ukMiDlCmdv2og" target="blank"><img align="right" iframe src="https://giphy.com/embed/ukMiDlCmdv2og" height="100" /></a>
+<iframe src="https://giphy.com/embed/ukMiDlCmdv2og" align="right" width="400" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-programmer-ukMiDlCmdv2og">via GIPHY</a></p>
