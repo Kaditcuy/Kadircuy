@@ -5,4 +5,4 @@
 * Java is the language
 * Currently learning C 
 * You can contact me via 📧philipukchimaobi@gmail.com
-* And on twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/_Ukanwoke.svg?style=social&label=Follow%20%40_Ukanwoke)](https://twitter.com/bukotsunikki)
+
