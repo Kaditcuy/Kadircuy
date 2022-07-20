@@ -1,5 +1,5 @@
 <h1 align = "center">Hi 👋, I'm Philip Ukanwoke a.k.a Kaditcuy</h1>
-<h3 align = "center">A Passionate Backend developer and a software Engineer 💻</h1>
+<h3 align = "center">A Passionate Backend developer and a Software Engineer 💻</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaditcuy&label=Profile%20views&color=0e75b6&style=flat" alt="Kaditcuy" /> </p>
 
