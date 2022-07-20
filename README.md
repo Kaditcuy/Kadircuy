@@ -3,6 +3,10 @@
 
 * Currently learning C 
  * Java is the language
- * 📧 philipukchimaobi@gmail.com                      ![giphy](https://user-images.githubusercontent.com/100276450/179907264-29699c2d-e2b8-4ce5-9049-e8b48d4c47b5.gif)
+ * 📧 philipukchimaobi@gmail.com                   
 
+<!--<iframe src="https://giphy.com/embed/ukMiDlCmdv2og" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/life-programmer-ukMiDlCmdv2og">via GIPHY</a></p> -->
 
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> -->
+
+<a href="https://giphy.com/gifs/life-programmer-ukMiDlCmdv2og" target="blank"><img align="right" iframe src="https://giphy.com/embed/ukMiDlCmdv2og" height="100" /></a>
