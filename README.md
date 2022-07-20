@@ -11,14 +11,12 @@
 
 * You can contact me via 📧philipukchimaobi@gmail.com
 
-<h2 align="center"> Kaditcuy's  Stats
-  <br><img src="https://github.com/Kaditcuy/Kaditcuy/blob/master/github-metrics.svg"><br> 
-</h2>
-
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaditcuy&show_icons=true&locale=en&layout=compact" alt="Kaditcuy" /></p>
+<h2 align="center"> Kaditcuy's  Stats </h2>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kaditcuy&show_icons=true&locale=en&layout=compact" alt="Kaditcuy" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kaditcuy&show_icons=true&locale=en" alt="Kaditcuy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaditcuy&" alt="Kaditcuy" /></p> -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaditcuy&" alt="Kaditcuy" /></p> 
 
 
